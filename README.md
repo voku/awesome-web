@@ -74,7 +74,7 @@
 #### <a name="video--learning"></a> Video: learning
 
 | name | costs | topics | language | url |
-|---|---|---|---|
+|---|---|---|---|---|
 | udemy       | free / pay per course | web development       | EN | https://www.udemy.com/ |
 | codecademy  | free                  | web development       | EN | http://www.codecademy.com/ |
 | tuts+       | free / pay per month  | web development       | EN | http://tutsplus.com/ |
