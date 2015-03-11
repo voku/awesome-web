@@ -50,4 +50,29 @@
 | SensioLabs        | Symfony2 - PHP             | EN | https://www.youtube.com/channel/UCLdVmxwj9dQqM8tJJp2LYGw |
 | The Guru Coder    | web development            | EN | https://www.youtube.com/user/thegurucoder/videos |
 
+<a name="video--discussions"></a>
+
+| name | topics | language | url |
+|---|---|---|---|
+| PHP Roundtable    | web development            | EN | https://www.youtube.com/user/PHPRoundtable/feed |
+| PHP Town Hall     | PHP                        | EN | https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw |
+
+<a name="video--conferences"></a>
+
+| name | topics | language | url |
+|---|---|---|---|
+| code.talks              | web development       | DE | https://www.youtube.com/channel/UCfuj1MM5p37CRzWYPv_PsWA/videos |
+| HTML5DevConf            | front-end development | EN | https://www.youtube.com/user/HTML5DevConf/videos |
+| International PHP Conference | PHP              | EN | https://www.youtube.com/channel/UCfkn0LIp-bZwDsCSWJ_WBxg |
+| FOSDEM                  | dev / admin / devops  | EN | http://video.fosdem.org/ |
+| JSConf                  | JS                    | EN | https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA |
+| PHP must watch (github) | PHP                   | *  | https://github.com/phptodayorg/php-must-watch |
+| PHP UKConferences       | PHP                   | EN | https://www.youtube.com/user/phpukconference |
+| PHPCraft SouthAfrica    | PHP                   | EN | https://www.youtube.com/channel/UCa9yGk-SwfQ89V2hrT-rMdg |
+| SunshinePHP Developer   | PHP                   | EN | https://www.youtube.com/channel/UC_LnivLeslUifdsAnCXgA_A |
+
+
+
 TODO ->
+
+- https://www.xing.com/events
