@@ -5,7 +5,7 @@
 
 1) [Video](#Video)
 - [tutorials](#video--tutorials)
-- [discussions](#video-discussions)
+- [discussions](#video--discussions)
 - [conferences](#video--conferences)
 - [learning](#video--learning)
 
@@ -30,7 +30,7 @@
 - [developer meetings](#practical--developer-meetings)
 - [conferences](#practical--conferences)
 
-<a name="video--tutorials"></a>
+#### <a name="video--tutorials"></a> Video: tutorials
 
 | name | topics | language | url |
 |---|---|---|---|
@@ -50,14 +50,14 @@
 | SensioLabs        | Symfony2 - PHP             | EN | https://www.youtube.com/channel/UCLdVmxwj9dQqM8tJJp2LYGw |
 | The Guru Coder    | web development            | EN | https://www.youtube.com/user/thegurucoder/videos |
 
-<a name="video--discussions"></a>
+#### <a name="video--discussions"></a> Video: discussions
 
 | name | topics | language | url |
 |---|---|---|---|
 | PHP Roundtable    | web development            | EN | https://www.youtube.com/user/PHPRoundtable/feed |
 | PHP Town Hall     | PHP                        | EN | https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw |
 
-<a name="video--conferences"></a>
+#### <a name="video--conferences"></a> Video: conferences
 
 | name | topics | language | url |
 |---|---|---|---|
@@ -70,6 +70,14 @@
 | PHP UKConferences       | PHP                   | EN | https://www.youtube.com/user/phpukconference |
 | PHPCraft SouthAfrica    | PHP                   | EN | https://www.youtube.com/channel/UCa9yGk-SwfQ89V2hrT-rMdg |
 | SunshinePHP Developer   | PHP                   | EN | https://www.youtube.com/channel/UC_LnivLeslUifdsAnCXgA_A |
+
+#### <a name="video--learning"></a> Video: learning
+
+| name | costs | topics | language | url |
+|---|---|---|---|
+| udemy       | free / pay per course | web development       | EN | https://www.udemy.com/ |
+| codecademy  | free                  | web development       | EN | http://www.codecademy.com/ |
+| tuts+       | free / pay per month  | web development       | EN | http://tutsplus.com/ |
 
 
 
