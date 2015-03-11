@@ -79,6 +79,32 @@
 | codecademy  | free                  | web development       | EN | http://www.codecademy.com/ |
 | tuts+       | free / pay per month  | web development       | EN | http://tutsplus.com/ |
 
+#### <a name="audio--podcast"></a> Audio: podcast
+
+| name | topics | language | url | feed |
+|---|---|---|---|---|
+| The Changelog              | open source           | EN | http://thechangelog.com | http://thechangelog.com/feed/ |
+| Software Engineering Radio | software engineering  | EN | http://www.se-radio.net | http://www.se-radio.net/feed/ |
+| heise: SoftwareArchitek    | software engineering  | DE | http://www.heise.de/developer/podcast/ | http://www.heise.de/developer/podcast/itunes/heise-developer-podcast-softwarearchitektour.rss |
+| Binärgewitter              | open source           | DE | http://blog.binaergewitter.de | http://blog.binaergewitter.de/rss.xml |
+| Developer Tea              |                       | EN | http://www.developertea.com | http://podcast.developertea.com/37244.rss |
+| JavaScript Jabber          | JS                    | EN | http://javascriptjabber.com | http://feeds.feedburner.com/JavascriptJabber |
+| VIER von vier.fm           |                       | DE | http://vier.fm | http://feeds.vier.fm/vier |
+| Freak Show                 |                       | DE | http://freakshow.fm | http://freakshow.fm/feed |
+| /dev/radio                 |                       | DE | http://ulm.ccc.de/dev/radio/ | http://ulm.ccc.de/dev/radio/podcast.xml |
+| Full Stack Radio           |                       | EN | http://fullstackradio.com | http://simplecast.fm/podcasts/279/rss |
+| Donau Tech Radio           | software engineering  | DE | http://dtr.fm | http://dtr.fm/feed/ |
+| PHP Town Hall              | PHP                   | EN | http://phptownhall.com | http://feeds.feedburner.com/phptownhall/drDl |
+| Technikwürze               | front-end development | DE | http://technikwuerze.de | http://technikwuerze.de/feed/ |
+| GitMinutes                 | GIT                   | EN | http://episodes.gitminutes.com/ | http://episodes.gitminutes.com/feeds/posts/default |
+| Responsive Web Design      | front-end development | EN | http://responsivewebdesign.com/podcast/ | http://responsivewebdesign.com/podcast/feed.xml |
+| That Podcast               |                       | EN | http://thatpodcast.io | http://thatpodcast.io/itunes.rss |
+| Coding History             |                       | DE | http://codinghistory.com | http://thatpodcast.io/itunes.rss |
+| Working Draft              | front-end development | DE | http://workingdraft.de | http://workingdraft.de/feed |
+| /dev/hell                  | web development       | EN | http://devhell.info/ | feeds.feedburner.com/devhell-podcast |
+| Chaosradio                 |                       | DE | http://chaosradio.ccc.de/chaosradio.html | http://chaosradio.ccc.de/chaosradio-latest.rss |
+| RadioTux GNU/Linux         | open source           | DE | http://www.radiotux.de/ | http://radiotux.de/podcast/rss/radiotux-all.xml |
+| Three Devs and a Maybe     | web development       | http://threedevsandamaybe.com/ | http://threedevsandamaybe.com/podcast.xml | 
 
 
 TODO ->
