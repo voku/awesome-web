@@ -13,6 +13,7 @@
 - [podcast](#audio--podcast)
 
 3) [Text](#text)
+- [e-mail](#text--e-mail)
 - [twitter](#text--twitter)
 - [google+](#text--google+)
 - [forum / user-support](#text--forum-user-support)
