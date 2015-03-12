@@ -13,9 +13,10 @@
 - [podcast](#audio--podcast)
 
 3) [Text](#text)
+- [rss](#text--rss)
 - [e-mail](#text--e-mail)
 - [twitter](#text--twitter)
-- [google+](#text--google+)
+- [google+](#text--google)
 - [forum / user-support](#text--forum-user-support)
 - [repositories](#text--repositories)
 - [github.com: developer](#text--github-developer)
@@ -23,11 +24,10 @@
 - [magazines](#text--magazines)
 - [slides](#text--slides)
 
-4.) [Practical](#Practical)
+4) [Practical](#Practical)
 - [interactive tutorials](#practical--interactive-tutorials)
 - [programming fight-clubs](#practical--programming-fight-clubs)
 - [apps](#practical-apps)
-- [github.com: open source](#practical--github-open-source)
 - [developer meetings](#practical--developer-meetings)
 - [conferences](#practical--conferences)
 
@@ -105,9 +105,100 @@
 | /dev/hell                  | web development       | EN | http://devhell.info/ | feeds.feedburner.com/devhell-podcast |
 | Chaosradio                 |                       | DE | http://chaosradio.ccc.de/chaosradio.html | http://chaosradio.ccc.de/chaosradio-latest.rss |
 | RadioTux GNU/Linux         | open source           | DE | http://www.radiotux.de/ | http://radiotux.de/podcast/rss/radiotux-all.xml |
-| Three Devs and a Maybe     | web development       | http://threedevsandamaybe.com/ | http://threedevsandamaybe.com/podcast.xml | 
+| Three Devs and a Maybe     | web development       | EN | http://threedevsandamaybe.com/ | http://threedevsandamaybe.com/podcast.xml | 
 
+#### <a name="text--rss"></a> Text: rss
 
-TODO ->
+| name | topics | language | url |
+|---|---|---|---|
+| TODO | | | |
 
+#### <a name="text--e-mail"></a> Text: e-mail
+
+| name | topics | language | url |
+|---|---|---|---|
+| versioning                 | web development       | EN | http://www.sitepoint.com/versioning/ |
+| TODO | | | |
+
+#### <a name="text--twitter"></a> Text: twitter
+
+| name | topics | language | url |
+|---|---|---|---|
+| David Walsh               | web development       | EN | https://twitter.com/davidwalshblog |
+| About Programming         | fun                   | EN | https://twitter.com/abt_programming |
+| TODO | | | |
+
+#### <a name="text--google"></a> Text: google+
+
+| name | topics | language | url |
+|---|---|---|---|
+| TODO | | | |
+
+#### <a name="text--forum-user-support"></a> Text: forum / user-support
+
+| name | topics | language | url |
+|---|---|---|---|
+| TODO | | | |
+
+#### <a name="text--repositories"></a> Text: repositories
+
+| name | topics | language | url |
+|---|---|---|---|
+| TODO | | | |
+
+#### <a name="text--github-developer"></a> Text: github.com - developer
+
+| name | topics | language | url |
+|---|---|---|---|
+| TODO | | | |
+
+#### <a name="text--github-projects"></a> Text: github.com - projects
+
+| name | topics | language | url |
+|---|---|---|---|
+| TODO | | | |
+
+#### <a name="text--magazines"></a> Text: magazines
+
+| name | topics | language | url |
+|---|---|---|---|
+| TODO | | | |
+
+#### <a name="text--slides"></a> Text: slides
+
+| name | topics | language | url |
+|---|---|---|---|
+| TODO | | | |
+
+#### <a name="practical--interactive-tutorials"></a> Practical: interactive-tutorials
+
+| name | topics | language | url |
+|---|---|---|---|
+| TODO | | | |
+
+#### <a name="practical--programming-fight-clubs"></a> Practical: programming fight-clubs
+
+| name | topics | language | url |
+|---|---|---|---|
+| TODO | | | |
+
+#### <a name="practical--practical-apps"></a> Practical: apps
+
+| name | topics | platform | language | url |
+|---|---|---|---|---|
+| TODO | | | | |
+
+#### <a name="practical--developer-meetings"></a> Practical: developer-meetings
+
+| name | topics | place | date | language | url |
+|---|---|---|---|---|---|
+| TODO | | | | | |
+
+#### <a name="practical--conferences"></a> Practical: conferences
+
+| name | topics | place | date | language | url |
+|---|---|---|---|---|---|
+| TODO | | | | | |
+
+Info:
 - https://www.xing.com/events
