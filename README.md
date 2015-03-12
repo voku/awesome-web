@@ -138,7 +138,8 @@
 
 | name | topics | language | url |
 |---|---|---|---|
-| TODO | | | |
+| stackoverflow             |                       | EN | http://stackoverflow.com/questions/ |
+| www.php.de (forum)        | PHP                   | DE | http://www.php.de/webentwicklung/ |          
 
 #### <a name="text--repositories"></a> Text: repositories
 
