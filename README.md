@@ -102,7 +102,7 @@
 | That Podcast               |                       | EN | http://thatpodcast.io | http://thatpodcast.io/itunes.rss |
 | Coding History             |                       | DE | http://codinghistory.com | http://thatpodcast.io/itunes.rss |
 | Working Draft              | front-end development | DE | http://workingdraft.de | http://workingdraft.de/feed |
-| /dev/hell                  | web development       | EN | http://devhell.info/ | feeds.feedburner.com/devhell-podcast |
+| /dev/hell                  | web development       | EN | http://devhell.info/ | http://feeds.feedburner.com/devhell-podcast |
 | Chaosradio                 |                       | DE | http://chaosradio.ccc.de/chaosradio.html | http://chaosradio.ccc.de/chaosradio-latest.rss |
 | RadioTux GNU/Linux         | open source           | DE | http://www.radiotux.de/ | http://radiotux.de/podcast/rss/radiotux-all.xml |
 | Three Devs and a Maybe     | web development       | EN | http://threedevsandamaybe.com/ | http://threedevsandamaybe.com/podcast.xml | 
