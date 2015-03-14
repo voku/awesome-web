@@ -71,6 +71,7 @@
 | PHP UKConferences       | PHP                   | EN | https://www.youtube.com/user/phpukconference |
 | PHPCraft SouthAfrica    | PHP                   | EN | https://www.youtube.com/channel/UCa9yGk-SwfQ89V2hrT-rMdg |
 | SunshinePHP Developer   | PHP                   | EN | https://www.youtube.com/channel/UC_LnivLeslUifdsAnCXgA_A |
+| Øredev                  | development           | EN | https://vimeo.com/user4280938/videos |
 
 #### <a name="video--learning"></a> Video: learning
 
