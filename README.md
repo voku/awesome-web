@@ -26,7 +26,7 @@
 
 4) [Practical](#Practical)
 - [interactive tutorials](#practical--interactive-tutorials)
-- [programming fight-clubs](#practical--programming-fight-clubs)
+- [programming fight- / training-clubs](#practical--programming-fight-training-clubs)
 - [apps](#practical-apps)
 - [developer meetings](#practical--developer-meetings)
 - [conferences](#practical--conferences)
@@ -179,7 +179,7 @@
 |---|---|---|---|
 | TODO | | | |
 
-#### <a name="practical--programming-fight-clubs"></a> Practical: programming fight- / training-clubs
+#### <a name="practical--programming-fight-training-clubs"></a> Practical: programming fight- / training-clubs
 
 | name | topics | language | url |
 |---|---|---|---|
