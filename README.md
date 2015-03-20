@@ -179,11 +179,13 @@
 |---|---|---|---|
 | TODO | | | |
 
-#### <a name="practical--programming-fight-clubs"></a> Practical: programming fight-clubs
+#### <a name="practical--programming-fight-clubs"></a> Practical: programming fight- / training-clubs
 
 | name | topics | language | url |
 |---|---|---|---|
-| TODO | | | |
+| CodeFightClub | Code-Fight.Club helps fellow developers learn how to write their code in the nicest, most effecient and preferred way they can. | EN | http://code-fight.club/ |
+| Projecteuler | A website dedicated to the fascinating world of mathematics and programming. | EN | https://projecteuler.net/ |
+| Kata | A code kata is an exercise in programming which helps a programmer hone their skills through practice and repetition. | EN | http://codekata.com/ |
 
 #### <a name="practical--practical-apps"></a> Practical: apps
 
