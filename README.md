@@ -359,7 +359,8 @@
 
 | name | topics | language | url |
 |---|---|---|---|
-| TODO | | | |
+| de.slideshare |  | DE | http://de.slideshare.net/ |
+| slidedeck     |  | EN | http://slidedeck.io/ |
 
 #### <a name="practical--interactive-tutorials"></a> Practical: interactive-tutorials
 
