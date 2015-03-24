@@ -314,7 +314,8 @@
 | David Walsh               | web development       | EN | https://twitter.com/davidwalshblog |
 | About Programming         | fun                   | EN | https://twitter.com/abt_programming |
 | learnable                 | web development       | EN | https://twitter.com/LearnableHQ |
-| Tuts+                     | web development       | EN | https://twitter.com/tutsplus |
+| Tuts+                     | web development       | EN | https://twitter.com/TutsPlus |
+| Tuts+ Code                | web development       | EN | https://twitter.com/TutsPlusCode |
 | TODO | | | |
 
 #### <a name="text--google"></a> Text: google+
