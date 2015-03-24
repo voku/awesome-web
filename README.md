@@ -389,6 +389,9 @@
 |---|---|---|---|---|---|
 | TODO | | | | | |
 
+Info:
+- http://www.meetup.com/find/
+
 #### <a name="practical--conferences"></a> Practical: conferences
 
 | name | topics | place | date | language | url |
