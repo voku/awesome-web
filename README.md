@@ -117,10 +117,17 @@
 
 #### <a name="text--e-mail"></a> Text: e-mail
 
-| name | topics | language | url |
-|---|---|---|---|
-| versioning                 | web development       | EN | http://www.sitepoint.com/versioning/ |
-| TODO | | | |
+| name | topics | frequency | language | url |
+|---|---|---|---|---|
+| Sitepoint - Versioning                 | web development          | daily  | EN | http://www.sitepoint.com/versioning/ |
+| Popular Hacker-News                    | technology               | weekly | EN | http://www.hackernewsletter.com/ |
+| JavaScript Weekly                      | JavaScript               | weekly | EN | http://javascriptweekly.com/ |
+| Web Tools Weekly                       | web development          | weekly | EN | http://webtoolsweekly.com/ |
+| WDRL                                   | web development          | weekly | EN | http://tinyletter.com/wdrl |
+| Web Animation Weekly                   | front-end development    | weekly | EN | http://sassnews.us7.list-manage.com/subscribe?u=b4a4054cce715a3b0ae5e7d35&id=f7c505323d |
+| Sass News                              | front-end development    | weekly | EN | http://sassnews.us7.list-manage.com/subscribe?u=b4a4054cce715a3b0ae5e7d35&id=f7c505323d |
+| CSS Weekly                             | front-end development    | weekly | EN | http://css-weekly.com/ |
+| O’Reilly Web                           | web development          | weekly | EN | http://www.oreilly.com/webops-perf/newsletter.html |
 
 #### <a name="text--twitter"></a> Text: twitter
 
