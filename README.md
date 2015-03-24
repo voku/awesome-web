@@ -350,7 +350,10 @@
 
 | name | topics | language | url |
 |---|---|---|---|
-| TODO | | | |
+| web & mobile developer    | web development    | DE | http://www.webundmobile.de/ |
+| c't                       | technology         | DE | http://www.heise.de/ct/ |
+| PHP-Magazin               | php                | DE | http://phpmagazin.de/ |
+| Linux-Magazin             | linux / technology | DE | http://www.linux-magazin.de/ |
 
 #### <a name="text--slides"></a> Text: slides
 
