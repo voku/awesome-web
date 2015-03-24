@@ -316,6 +316,7 @@
 | learnable                 | web development       | EN | https://twitter.com/LearnableHQ |
 | Tuts+                     | web development       | EN | https://twitter.com/TutsPlus |
 | Tuts+ Code                | web development       | EN | https://twitter.com/TutsPlusCode |
+| t3n                       | web development       | DE | https://twitter.com/t3n |
 | TODO | | | |
 
 #### <a name="text--google"></a> Text: google+
