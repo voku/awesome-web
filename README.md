@@ -366,7 +366,8 @@
 
 | name | topics | language | url |
 |---|---|---|---|
-| TODO | | | |
+| tryruby      | ruby             | EN | http://tryruby.org/ |
+| codeschool   | web development  | EN | http://www.codeschool.com |
 
 #### <a name="practical--programming-fight-training-clubs"></a> Practical: programming fight- / training-clubs
 
