@@ -307,6 +307,9 @@
 | CSS Weekly                             | front-end development    | weekly | EN | http://css-weekly.com/ |
 | O’Reilly Web                           | web development          | weekly | EN | http://www.oreilly.com/webops-perf/newsletter.html |
 
+More:
+- https://github.com/Freizeitler/Awesome-WebDev-Newsletters/blob/master/README.md
+
 #### <a name="text--twitter"></a> Text: twitter
 
 | name | topics | language | url |
@@ -394,7 +397,7 @@
 |---|---|---|---|---|---|
 | TODO | | | | | |
 
-Info:
+More:
 - http://www.meetup.com/find/
 
 #### <a name="practical--conferences"></a> Practical: conferences
@@ -403,5 +406,5 @@ Info:
 |---|---|---|---|---|---|
 | TODO | | | | | |
 
-Info:
+More:
 - https://www.xing.com/events
