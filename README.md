@@ -334,6 +334,7 @@ More:
 | name | topics | language | url |
 |---|---|---|---|
 | stackoverflow             |                       | EN | http://stackoverflow.com/questions/ |
+| reddit (phphelp)          | PHP                   | EN | http://www.reddit.com/r/phphelp |
 | www.php.de (forum)        | PHP                   | DE | http://www.php.de/webentwicklung/ |          
 
 #### <a name="text--repositories"></a> Text: repositories
