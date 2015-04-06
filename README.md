@@ -107,7 +107,21 @@
 | /dev/hell                  | web development       | EN | http://devhell.info/ | http://feeds.feedburner.com/devhell-podcast |
 | Chaosradio                 |                       | DE | http://chaosradio.ccc.de/chaosradio.html | http://chaosradio.ccc.de/chaosradio-latest.rss |
 | RadioTux GNU/Linux         | open source           | DE | http://www.radiotux.de/ | http://radiotux.de/podcast/rss/radiotux-all.xml |
-| Three Devs and a Maybe     | web development       | EN | http://threedevsandamaybe.com/ | http://threedevsandamaybe.com/podcast.xml | 
+| Three Devs and a Maybe     | web development       | EN | http://threedevsandamaybe.com/ | http://threedevsandamaybe.com/podcast.xml |
+
+TODO:
+- http://responsivewebdesign.com/podcast/
+- http://thisweekinstartups.com/
+- http://www.muleradio.net/mistakes/
+- http://shoptalkshow.com/
+- http://alifewellwasted.com/podcast/
+- http://www.happymondaypodcast.com/
+- http://thisdeveloperslife.com/
+- http://creativecodingpodcast.com/
+- https://itunes.apple.com/us/podcast/breaking-development-podcast/id553491521?mt=2
+- http://developingperspective.com/
+- http://www.sitepoint.com/web/podcast/
+- http://thewebahead.net/
 
 #### <a name="text--rss"></a> Text: rss
 
@@ -335,7 +349,7 @@ More:
 |---|---|---|---|
 | stackoverflow             |                       | EN | http://stackoverflow.com/questions/ |
 | reddit (phphelp)          | PHP                   | EN | http://www.reddit.com/r/phphelp |
-| www.php.de (forum)        | PHP                   | DE | http://www.php.de/webentwicklung/ |          
+| www.php.de (forum)        | PHP                   | DE | http://www.php.de/webentwicklung/ |
 
 #### <a name="text--repositories"></a> Text: repositories
 
@@ -377,6 +391,7 @@ More:
 |---|---|---|---|
 | tryruby      | ruby             | EN | http://tryruby.org/ |
 | codeschool   | web development  | EN | http://www.codeschool.com |
+| docker       | admin            | EN | https://www.docker.com/tryit/ | 
 
 #### <a name="practical--programming-fight-training-clubs"></a> Practical: programming fight- / training-clubs
 
@@ -385,6 +400,7 @@ More:
 | CodeFightClub | Code-Fight.Club helps fellow developers learn how to write their code in the nicest, most effecient and preferred way they can. | EN | http://code-fight.club/ |
 | Projecteuler | A website dedicated to the fascinating world of mathematics and programming. | EN | https://projecteuler.net/ |
 | Kata | A code kata is an exercise in programming which helps a programmer hone their skills through practice and repetition. | EN | http://codekata.com/ |
+| Exercism | Start with some code, rewrite it, post the changes and get feedback from mentors. | EN | http://exercism.io/ |
 
 #### <a name="practical--practical-apps"></a> Practical: apps
 
