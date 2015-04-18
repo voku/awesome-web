@@ -50,6 +50,7 @@
 | Sass Bites        | CSS / SASS (Podcast)       | EN | https://www.youtube.com/channel/UCOFsG9Tbs7Aga9n7Smify0A |
 | SensioLabs        | Symfony2 - PHP             | EN | https://www.youtube.com/channel/UCLdVmxwj9dQqM8tJJp2LYGw |
 | The Guru Coder    | web development            | EN | https://www.youtube.com/user/thegurucoder/videos |
+| SitePoint         | web development            | EN | https://www.youtube.com/user/SitePoint/videos |
 
 #### <a name="video--discussions"></a> Video: discussions
 
