@@ -336,6 +336,7 @@ More:
 | Tuts+ Code                | web development       | EN | https://twitter.com/TutsPlusCode |
 | t3n                       | web development       | DE | https://twitter.com/t3n |
 | nixCraft                  | linux                 | EN | https://twitter.com/nixcraft |
+| TrendingGithub            | development           | EN | https://twitter.com/TrendingGithub |
 | TODO | | | |
 
 #### <a name="text--google"></a> Text: google+
